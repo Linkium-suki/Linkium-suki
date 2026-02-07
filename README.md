@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode)
 
 <!-- 联系方式 -->
 [![](https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/504202744)
