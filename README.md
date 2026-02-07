@@ -19,11 +19,11 @@
 ![](https://img.shields.io/badge/Linux-39C5BB?style=flat-square&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Windows-39C5BB?style=flat-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-39C5BB?style=flat-square&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-39C5BB?style=flat-square&logo=visual-studio&logoColor=white)
 
 
 <!-- 联系方式：保持 B站 粉色 (Miku的朋友) -->
 [![](https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/504202744)
-[![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:linkium.workspace@gmail.com)
+[![](https://img.shields.io/badge/Email-FB7299?style=flat-square&logo=gmail&logoColor=white)](mailto:linkium.workspace@gmail.com)
 
 </div>
